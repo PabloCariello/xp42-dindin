@@ -1,3 +1,37 @@
-main {
-    padding-top: 250px;
+.art1 {
+    background: url(../img/ilustra-banner.png) 527px 135px no-repeat;
+}
+
+main > article {
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    margin-left: 206px;
+}
+
+main article h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: #FF4081;
+    max-width: 488px;
+    margin: 125px 0 0;
+}
+
+main article p {
+    margin: 0;
+    font-size: 27px;
+    font-weight: 400;
+    max-width: 366px;
+}
+
+main article a {
+    font-size: 27px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    box-sizing: border-box;
+    max-width: 266px;
+    padding: 9px 26px;
 }
