@@ -1,0 +1,59 @@
+.part1 {
+    background: url('../img/ilustra-poupando.png') 780px 90px no-repeat;
+    padding-left: 202px;
+    height: 542px;
+}
+
+.part1 h1 {
+    font-size: 55px;
+    font-weight: 700;
+    color: #FF4081;
+    max-width: 470px;
+    margin: 0 0;
+    padding-top: 93px;
+    padding-bottom: 22px;
+}
+
+.part1 p {
+    font-size: 20px;
+    font-weight: 300;
+    max-width: 461px;
+    margin: 0 0;
+}
+
+
+.videos {
+    height: 1235px;
+    background-color: #F7F7F7;
+}
+
+.videos h3 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0 0;
+    padding-left: 76px;
+}
+
+.videos p {
+    font-size: 20px;
+    font-weight: 300;
+    width: 501px;
+    margin: 0 0;
+    padding-top: 26px;
+    padding-left: 76px;
+}
+.video1 {
+    display: flex;
+    align-items: center;
+    padding-left: 213px;
+    padding-top: 75px;
+}
+
+.traço {
+    background-color: #C4C4C4;
+    max-width: 1287px;
+    height: 3px;
+    color: transparent;
+    margin: 73px auto 0;
+}
