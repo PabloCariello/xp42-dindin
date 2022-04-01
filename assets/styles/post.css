@@ -1,0 +1,108 @@
+.part1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.part1 h1 {
+    font-size: 50px;
+    font-weight: 500;
+    color: #FF4081;
+    margin: 0 0;
+    padding-top: 111px;
+}
+
+.part1 h6 {
+    font-size: 18px;
+    font-weight: 300;
+    color: #9D9D9D;
+    margin: 0 0;
+    padding-bottom: 74px;
+}
+
+.part1 img {
+    padding-bottom: 40px;
+}
+
+.part1 p {
+    font-size: 18px;
+    font-weight: 300;
+    width: 1032px;
+}
+
+.part1 h4 {
+    font-size: 26px;
+    font-weight: 500;
+    color: #009688;
+    padding-top: 30px;
+    width: 1032px;
+}
+
+.art2 {
+    display: flex;
+    width: 1440px;
+    background-color: #F7F7F7;
+    height: 600px;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding-bottom: 117px;
+}
+
+.art2 section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 23px;
+    padding-top: 430px;
+    padding: 300px 0 0 0;
+    background-position-x: center;
+
+}
+
+
+.art2 h3 {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: #FF4081;
+}
+
+.art2 span {
+    width: 293px;
+    font-size: 17px;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+
+.art2 a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    box-sizing: border-box;
+    width: 233px;
+    height: 51px;
+    padding: 9px 26px;
+    margin-top: 3px;
+}
+
+.art2sec1 {
+    background: url('../img/ilustra-poupando.png') 0 0 no-repeat;
+    background-size: 288px 270px;
+}
+
+.art2sec2 {
+    background: url('../img/ilustra-investimento.png') 0 0 no-repeat;
+    background-size: 238px 270px;
+}
+
+.art2sec3 {
+    background: url('../img/ilustra-independencia.png') 0 0 no-repeat;
+    background-size: 187px 270px;
+}
