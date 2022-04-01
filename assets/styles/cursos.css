@@ -1,0 +1,149 @@
+.fundo {
+    height: 2105px;
+}
+
+.titulo h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0 0;
+    padding-top: 81px;
+    padding-left: 82px;
+}
+
+.titulo p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #555555;
+    margin: 0 0;
+    padding-bottom: 95px;
+    padding-left: 82px;
+}
+
+.conteudo {
+    background: url('../img/ilustra-poupando.png') 107px -20px no-repeat;
+    background-size: 380px 381px;
+    padding-left: 545px;
+    height: 390px;
+}
+
+.conteudo h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0 0;
+}
+
+.conteudo p {
+    font-size: 18px;
+    font-weight: 300;
+    max-width: 724px;
+    padding-top: 37px;
+    padding-bottom: 53px;
+    margin: 0 0;
+}
+
+.conteudo a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #419488;
+    border: 2px solid #419488;
+    border-radius: 62px;
+    box-sizing: border-box;
+    width: 233px;
+    height: 51px;
+    padding: 9px 26px;
+    margin: 0 0;
+    
+}
+
+.traço {
+    background-color: #C4C4C4;
+    max-width: 1287px;
+    height: 5px;
+    color: transparent;
+    margin: 68px auto 0;
+}
+
+.conteudo2 {
+    background: url('../img/ilustra-investimento.png') 107px 111px no-repeat;
+    background-size: 380px 385px;
+    padding-left: 545px;
+    height: 390px;
+    padding-top: 108px;
+}
+
+.conteudo2 h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0 0;
+}
+
+.conteudo2 p {
+    font-size: 18px;
+    font-weight: 300;
+    max-width: 724px;
+    padding-top: 37px;
+    padding-bottom: 53px;
+    margin: 0 0;
+}
+
+.conteudo2 a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #419488;
+    border: 2px solid #419488;
+    border-radius: 62px;
+    box-sizing: border-box;
+    width: 233px;
+    height: 51px;
+    padding: 9px 26px;
+    margin: 0 0;
+}
+
+.conteudo3 {
+    background: url('../img/ilustra-independencia.png') 107px 95px no-repeat;
+    background-size: 380px 498px;
+    padding-left: 545px;
+    height: 500px;
+    padding-top: 152px;
+}
+
+.conteudo3 h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0 0;
+}
+
+.conteudo3 p {
+    font-size: 18px;
+    font-weight: 300;
+    max-width: 724px;
+    padding-top: 37px;
+    padding-bottom: 53px;
+    margin: 0 0;
+}
+
+.conteudo3 a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #419488;
+    border: 2px solid #419488;
+    border-radius: 62px;
+    box-sizing: border-box;
+    width: 233px;
+    height: 51px;
+    padding: 9px 26px;
+    margin: 0 0;
+}

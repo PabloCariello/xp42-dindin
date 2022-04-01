@@ -1,5 +1,6 @@
 .art1 {
     background: url(../img/ilustra-banner.png) 527px 135px no-repeat;
+    background-size: 501px 511px;
 }
 
 main .art1 {
@@ -20,9 +21,11 @@ main .art1 h1{
 
 main .art1 p {
     margin: 0;
+    color: #555555;
     font-size: 27px;
     font-weight: 400;
     max-width: 366px;
+    padding-bottom: 10px;
 }
 
 main .art1 a {
@@ -40,7 +43,7 @@ main .art1 a {
 .art2 {
     display: flex;
     background-color: #F7F7F7;
-    height: 730px;
+    height: 600px;
     justify-content: space-evenly;
     align-items: flex-end;
     padding-bottom: 117px;
@@ -52,6 +55,8 @@ main .art1 a {
     align-items: center;
     gap: 23px;
     padding-top: 430px;
+    padding: 300px 0 0 0;
+    background-position-x: center;
 
 }
 
@@ -90,12 +95,108 @@ main .art1 a {
 
 .art2sec1 {
     background: url('../img/ilustra-poupando.png') 0 0 no-repeat;
+    background-size: 288px 270px;
 }
 
 .art2sec2 {
     background: url('../img/ilustra-investimento.png') 0 0 no-repeat;
+    background-size: 238px 270px;
 }
 
 .art2sec3 {
     background: url('../img/ilustra-independencia.png') 0 0 no-repeat;
+    background-size: 187px 270px;
+}
+
+.fundo {
+    height: 701px;
+}
+
+.art3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 86px;
+    padding-left: 128px;
+    
+}
+
+h4 {
+    color: #009688;
+    font-size: 37px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 128px;
+    margin-top: 0;
+    padding-top: 119px;
+}
+
+.art3 p {
+    font-size: 18px;
+    font-weight: 300;
+    width: 366px;
+}
+
+.art3 section {
+    display: flex;
+    gap: 27px;
+    align-items: center;
+}
+
+.art3 img {
+    width: 104px;
+    height: 104px;
+}
+
+.fundo2 {
+    background-color: #F7F7F7;
+    height: 697px;
+
+}
+
+h5{
+    color: #009688;
+    font-size: 37px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 128px;
+    margin-top: 0;
+    padding-top: 60px;
+}
+
+.art4 {
+    display: flex;
+    gap: 109px;
+    padding-left: 128px;
+}
+
+.art4 h6 {
+    font-size: 27px;
+    font-weight: 700;
+    color: #009688;
+    margin: 0 0 0;
+    padding-top: 11px;
+}
+
+.art4 p {
+    font-size: 18px;
+    font-weight: 400;
+    width: 319px;
+    margin: 0 0 0;
+    padding-bottom: 101px;
+}
+
+.fundo2 a {
+    display: block;
+    margin: auto;
+    font-size: 27px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    box-sizing: border-box;
+    max-width: 279px;
+    padding: 9px 26px;
+    
 }
